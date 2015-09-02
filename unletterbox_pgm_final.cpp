@@ -11,7 +11,7 @@
 ** g++ -o unletterbox_pgm_final.o unletterbox_pgm_final.cpp
 ** ./unletterbox_pgm_final.o 17.pgm
 **
-** Author: <Akshay Pulipaka 08/04/2015>
+** Author: <Dr. Akshay P 08/04/2015>
 ** -------------------------------------------------------------------------*/
 
 /* 
